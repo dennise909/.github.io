@@ -1,0 +1,126 @@
+.carousel-item {
+    height: 450px;
+  }
+  
+  .carousel-image-1 {
+    background: url('../images_film/pic_1.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .carousel-image-2 {
+    background: url('../images_film/pic_2.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .carousel-image-3 {
+    background: url('../images_film/pic_3.jpg');
+    background-size: cover;
+    background-position: left;
+  }
+  .logo-image{
+    width: 80px !important;
+    height: 80px !important;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+  #about-head-section {
+    position: top;
+    min-height: 200px;
+    background: url('../images_film/about.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+  }
+
+  .about-img {
+    margin-top: -40px;
+    height: 398px;
+    width: 540x;
+  }
+
+  #main-footer {
+    background: #212529;
+    color:#ff6363;
+  }
+
+  .about-img2 {
+    height: 398px;
+    width: 500px;
+  }
+  #movies-head-section {
+    position: top;
+    min-height: 200px;
+    background: url('../images_film/about.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+  }
+
+  #tickets-head-section {
+    position: top;
+    min-height: 200px;
+    background: url('../images_film/about.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+  }
+
+  a {
+    color: white !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+#master_mind {
+  margin-top: 100px;
+  border-top: 40px;
+}
+
+.nav-item{
+  font-size: 1.5rem;
+}
+
+.nav-item :hover{
+  color:#ff6363 !important;
+}
+
+.card-img-top{
+  height:481px !important;
+  width:329px !important;
+  display: block !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
+
+.card{
+  border:none;
+}
+.card-title{
+  text-align: center;
+}
+
+#movies_part{
+   background-color: white; 
+  }
+
+#mainCarousel .carousel-item {
+  height:481px !important;
+  width:329px !important;
+  position: center !important;
+}
+
+#partners{
+  background-color:#212529;
+}
+
+.btn {
+  display: block !important;
+  margin-left:auto !important;
+  margin-right:auto !important;
+}
